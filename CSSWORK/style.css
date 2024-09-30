@@ -1,0 +1,40 @@
+#container
+{
+    background-color: aqua;
+    height: 400px;
+    margin: 30px;
+    padding: 60px;
+    border: 3px solid red;
+    text-align: center;
+
+}
+#c_1
+{
+    background-color: antiquewhite;
+    border: 3px solid violet;
+    border-radius: 80%;
+    margin: 10px;
+    padding-top: 50px;
+    padding-left: 10px;
+    margin-left: 420px;
+    height: 300px;
+    width: 300px;
+    text-align: center;
+    box-sizing: content-box;
+}
+
+#para
+{
+    background-color: blueviolet;
+}
+
+#con
+{
+    background-color: aquamarine;
+    border: 3px solid red;
+}
+#c1,#c2,#c3
+{
+    border: 2px solid orange;
+    display: inline-block;
+}
