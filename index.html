@@ -3,17 +3,22 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Quiz App</title>
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <table border="1" width="100%"> 
-        <thead></thead>
-        <tbody>
-            <tr><td colspan="2">Header</td></tr>
-            <tr><td><a href="index.html">Login</a></td><td><iframe name="myframe" height="500" width="700" style="background-color: blueviolet;" src="/PXL_20240527_111752084 copy.png"></iframe></td></tr>
-            <tr><td colspan="2">Footer</td></tr>
-        </tbody>
-        <tfoot></tfoot>
-    </table>
+    <div class="quiz-container">
+        <h1>Online Quiz</h1>
+        <div id="question-container">
+            <p id="question"></p>
+            <div id="options"></div>
+        </div>
+        <div class="buttons">
+            <button id="prev-btn" onclick="prevQuestion()">Previous</button>
+            <button id="next-btn" onclick="nextQuestion()">Next</button>
+        </div>
+        <div id="score-container"></div>
+    </div>
+    <script src="script.js"></script>
 </body>
 </html>
