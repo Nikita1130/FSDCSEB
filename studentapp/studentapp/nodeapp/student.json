@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Rahul",
+    "email": "ptomer41@yahoo.com",
+    "password": "123445"
+  },
+  {
+    "name": "Amit",
+    "email": "ptomer40@yahoo.com",
+    "password": "hi@key"
+  },
+  {
+    "name": "Ansh Tomer",
+    "email": "tomer@abc.com",
+    "password": "21323"
+  },
+  {
+    "name": "Prashant Tomer",
+    "email": "ptomer@yahoo.com",
+    "password": "12345"
+  },
+  {
+    "name": "Vansh",
+    "email": "amit40@yahoo.com",
+    "password": 9090
+  },
+  {
+    "name": "Visahl",
+    "email": "ptomer411@yahoo.com",
+    "password": "132232"
+  },
+  {
+    "name": "Aditya Jha",
+    "email": "infomatics.aditya@gmail.com",
+    "password": "12345"
+  }
+]
